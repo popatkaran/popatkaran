@@ -1,0 +1,15 @@
+- link:
+    title: Home
+    url: /
+- link:
+    title: About
+    url: /about
+- link:
+    title: Contact
+    url: /contact
+- link:
+    title: Dashboard
+    url: /dashboard-personal
+- link:
+    title: Workboard
+    url: /dashboard-work

@@ -1,0 +1,33 @@
+{
+  "name": "popatkaran",
+  "version": "1.0.0",
+  "private": true,
+  "description": "popatkaran",
+  "author": "Karan Popat",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop -p 1301",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.5.0",
+    "gatsby-plugin-image": "^3.5.0",
+    "gatsby-plugin-react-helmet": "^6.5.0",
+    "gatsby-plugin-sharp": "^5.5.0",
+    "gatsby-plugin-sitemap": "^6.5.0",
+    "gatsby-source-filesystem": "^5.5.0",
+    "gatsby-transformer-remark": "^6.5.0",
+    "gatsby-transformer-sharp": "^5.5.0",
+    "gatsby-transformer-yaml": "^5.5.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-burger-menu": "^3.0.9",
+    "react-dom": "^18.2.0",
+    "react-live-clock": "^6.1.5"
+  }
+}
